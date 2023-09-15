@@ -1,0 +1,52 @@
+Enter initial coordinates(x,y,z)
+Enter x coordinate : 0
+Enter y coordinate : 0
+Enter z coordinate : 0
+Enter initial direction (from N,S,E,W,U,D) in uppercase as a single character : N
+Enter commands and 0 to end taking commands : 
+f
+r
+u
+b
+l
+0
+
+
+After Command "f" configuration is : 
+Coordinates : (0,1,0)
+Direction : N
+
+
+
+
+After Command "r" configuration is : 
+Coordinates : (0,1,0)
+Direction : E
+
+
+
+
+After Command "u" configuration is : 
+Coordinates : (0,1,0)
+Direction : U
+
+
+
+
+After Command "b" configuration is : 
+Coordinates : (0,1,-1)
+Direction : U
+
+
+
+
+After Command "l" configuration is : 
+Coordinates : (0,1,-1)
+Direction : N
+
+
+
+Final Configuraton of Chandrayaan3
+
+Coordinates : (0,1,-1)
+Direction : N
